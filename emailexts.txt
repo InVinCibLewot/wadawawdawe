@@ -14,6 +14,10 @@ msn.com
 comcast.net
 verizon.net
 mail.ru
+meta.ua
+meta.com
+meta.jp
+meta.co.jp
 rediffmail.com
 fastmail.com
 gmx.de
