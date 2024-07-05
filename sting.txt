@@ -134,7 +134,6 @@ AnonymousFox
  name=pass
 Tryag File Manager
 config root man
-Index of
 Mini shell
 Shell Uploader
 walex says Fuck Off Kids:
