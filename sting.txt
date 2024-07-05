@@ -1,5 +1,4 @@
 Get S.H.E.L.L.en v1.0 | BY ..
-{"star":"temp"}
 403WebShell
 -rw-r--r--
 <title>||TINYSHELL||</title>
@@ -121,3 +120,29 @@ ALFA TEaM Shell - v4.1-Tesla
 <input type="file" size="20" name="uploads"/>
 <input type="file" name="fileToUpload" id="fileToUpload">
 <p align="center"><center><font style="font-size:13px" color="#008000" face="Trebuchet MS">
+Web Console
+WSO 2.6
+'http://www.ubhteam.org/images/UBHFinal1.png'
+[UNAME]
+xichang1
+Hckd By? Html404
+JEMBOETS
+<title>Mister Spy</title>
+<title>IndoXploit</title>
+#p@@#
+AnonymousFox
+ name=pass
+Tryag File Manager
+config root man
+Index of
+Mini shell
+Shell Uploader
+walex says Fuck Off Kids:
+BlesseD MAILER 2014
+w4l3XzY3 Mailer
+<title>Vuln!! patch it Now!</title>
+RxR HaCkEr
+<title>IndoXploit</title>
+X_Shell
+izocin
+Dr HeX
