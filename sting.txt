@@ -140,7 +140,3 @@ RxR HaCkEr
 X_Shell
 izocin
 Dr HeX
-Shell
-bypass shell
-yanz
-upload
