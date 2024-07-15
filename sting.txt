@@ -6,12 +6,10 @@ Get S.H.E.L.L.en v1.0 | BY ..
 -rw-r--r--
 <title>LogIn|ECWS</title>
 <input type="file" name="fileToUpload" id="fileToUpload">
-input type="password" name="pwdyt" value="" placeholder="passwd"
 C0mmand
 meta name="robots" content="noindex"><form method="post" enctype="multipart/form-data"><input type="file" name="btul"><button>Gaskan<
 b374k2.8
 <img src="https://github.com/fluidicon.png" width="30" height="30" alt="">
->Password<br>
 Uname
 <h1>{INDOSEC}</h1>
 YanzWebshell!
@@ -33,14 +31,12 @@ LeafPHPMailer
 ShellBypass403GE-C666C
 <b>YanzWebshell!</b>
 Negat1veShell
-class="form-control" placeholder="@Passwrd" type="password" name="getpwd"
 input type="submit" name="submit" value=">>"
 BlackDragon
 #0x2525
 drwxr-xr-x
 -rwxr-xr-x
 type="submit" id="_upl" value="Upload
-<input type="password" name="password">
 <Uplfile</a></td>
 UploadFile:<input type="file" name="file
 MSQ_403
@@ -97,7 +93,6 @@ Upload File : <input
 %PDF-0-1<form action="" method="post"><input type="text" name="_rg"><input type="submit" value=">>"
 type="submit" id="_upl" value="Upload
 upload=gaskan">Upload File<
-<pre align=center><form method=post>Password<br><input type=password name=pass
 Negat1ve Shell
 <input type='submit' value='UPload File' />
 {Ninja-Shell}
@@ -145,3 +140,7 @@ RxR HaCkEr
 X_Shell
 izocin
 Dr HeX
+Shell
+bypass shell
+yanz
+upload
