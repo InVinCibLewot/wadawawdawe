@@ -3,7 +3,6 @@ Get S.H.E.L.L.en v1.0 | BY ..
 -rw-r--r--
 <title>||TINYSHELL||</title>
 <title>UploaderSp3Ctra</title>
--rw-r--r--
 <title>LogIn|ECWS</title>
 <input type="file" name="fileToUpload" id="fileToUpload">
 C0mmand
@@ -34,8 +33,6 @@ Negat1veShell
 input type="submit" name="submit" value=">>"
 BlackDragon
 #0x2525
-drwxr-xr-x
--rwxr-xr-x
 type="submit" id="_upl" value="Upload
 <Uplfile</a></td>
 UploadFile:<input type="file" name="file
@@ -81,10 +78,7 @@ Negat1ve Shell
 class="form-control" placeholder="@Passwrd" type="password" name="getpwd"
 input type="submit" name="submit" value="  >>"
 BlackDragon
--rw-r--r--
 #0x2525
-drwxr-xr-x
--rwxr-xr-x
 type="submit" id="_upl" value="Upload
 Upload File : <input
 <title>000</title>
@@ -120,13 +114,11 @@ WSO 2.6
 'http://www.ubhteam.org/images/UBHFinal1.png'
 [UNAME]
 xichang1
-Hckd By? Html404
 JEMBOETS
 <title>Mister Spy</title>
 <title>IndoXploit</title>
 #p@@#
 AnonymousFox
- name=pass
 Tryag File Manager
 config root man
 Mini shell
@@ -137,6 +129,3 @@ w4l3XzY3 Mailer
 <title>Vuln!! patch it Now!</title>
 RxR HaCkEr
 <title>IndoXploit</title>
-X_Shell
-izocin
-Dr HeX
