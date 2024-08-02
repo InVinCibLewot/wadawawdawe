@@ -1,4 +1,3 @@
-/wp-includes/Requests/about.php
 /wp-includes/style-engine/about.php
 /radio.php
 /chosen.php
