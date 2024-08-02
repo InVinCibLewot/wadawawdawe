@@ -1,4 +1,3 @@
-/wp-includes/style-engine/about.php
 /radio.php
 /chosen.php
 /simple.php
