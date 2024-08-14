@@ -79,8 +79,6 @@ chinaren.com
 yahoo.co.jp
 ezweb.ne.jp
 docomo.ne.jp
-softbank.ne.jp
-i.softbank.jp
 ymail.com
 rocketmail.com
 yahoo.co.in
