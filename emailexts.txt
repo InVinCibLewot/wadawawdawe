@@ -3,6 +3,8 @@ yahoo.com
 cyberhome.ne.jp
 outlook.com
 hotmail.com
+80x24.org
+public-inbox.org
 aol.com
 icloud.com
 mail.com
