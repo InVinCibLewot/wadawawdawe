@@ -2,6 +2,8 @@ gmail.com
 yahoo.com
 cyberhome.ne.jp
 outlook.com
+gmail.com.
+gmail.com.br
 hotmail.com
 80x24.org
 public-inbox.org
